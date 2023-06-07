@@ -2,7 +2,7 @@
 import openai
 
 
-openai.api_key = "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"
+openai.api_key = "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"
 import time
 
 def translate(text="This is an English Sentence"):
